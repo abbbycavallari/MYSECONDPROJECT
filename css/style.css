@@ -1,0 +1,158 @@
+
+    
+
+@media(max-width:768px){
+    body{
+        background-color: green;
+    }
+}
+@media(max-width:425px){
+    body{
+        background-color:purple;
+    }
+}
+@media(max-width:350px){
+    body{
+        background-color: orange;
+    }
+}
+
+
+.btn{
+    background-color: green;
+    color: white;
+    padding: 10px 80px;
+}
+.navbar{
+    padding: 20px 50px;
+}
+.logo{
+    width: 4cm;
+}
+.hero3{
+    height: 17cm;
+    width:23cm ;
+
+}
+.co1{
+    padding-left: 150px;
+    background-color:rgb(248, 237, 239) ;
+}
+.co2{
+    padding-left:150px;
+    background-color: rgb(240, 249, 252);
+}
+hr{
+    width: 3cm;
+    padding-top: 3px;
+    text-align: left;
+    color: black;
+    
+}
+.button{
+    color: green;
+    border-bottom: none;
+    font-size: bold;
+    text-decoration: none;
+}
+.blackbg{
+    background-color: black;
+    
+    color: white;
+    text-align: center;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+}
+
+
+
+.sec_1{
+    /* background-color: black; */
+}
+.buhari{
+    padding:150px 100px ;
+    padding-left: 100px;
+    
+    
+
+}
+.bubu{
+    height: 12cm;
+    width:12cm ;
+    padding-left: 50px;
+    
+
+}
+.butabout{
+    color: orange;
+    text-decoration: none;
+}
+.readmore{
+    border-radius: 5px;
+    padding: 18px 70px;
+    
+    background-color: rgb(8, 99, 56);
+    text-decoration: none;
+    color: white;
+}
+.farming{
+    text-align: right;
+}
+.farm{
+    padding: 100px 150px;
+}
+.prgm{text-align: center;
+
+}
+.program{
+    background-color: rgb(241, 249, 250);
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.applynow{
+    border-radius: 5px;
+    padding: 20px 50px;
+    
+    background-color: rgb(8, 99, 56);
+    text-decoration: none;
+    color: white;
+
+}
+.learnmore{
+    border-radius: 5px;
+    padding: 20px 50px;
+    
+    background-color: rgb(187, 238, 214);
+    text-decoration: none;
+    color: rgb(17, 94, 62);
+
+}
+.orange{
+    color: orange;
+    
+}
+.food{
+    width: 18cm;
+    height: 8cm;
+    
+    
+
+}
+.container{
+    width: 19cm;
+    height: 17cm;
+    background-color:white;
+}
+.card-img-top{
+    height:9cm ;
+    
+}
+.card-body{
+    height: 8cm;
+    
+
+}
+
+
+
