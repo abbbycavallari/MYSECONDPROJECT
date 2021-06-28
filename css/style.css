@@ -25,14 +25,17 @@
 }
 .navbar{
     padding: 20px 50px;
+    
 }
 .logo{
     width: 4cm;
 }
-.hero3{
-    height: 17cm;
-    width:23cm ;
 
+    
+
+.hero33{
+    height:19cm ;
+    width: 23cm;
 }
 .co1{
     padding-left: 150px;
@@ -42,9 +45,9 @@
     padding-left:150px;
     background-color: rgb(240, 249, 252);
 }
-hr{
+.black{
     width: 3cm;
-    padding-top: 3px;
+    border: 3px solid black;
     text-align: left;
     color: black;
     
@@ -90,10 +93,10 @@ hr{
 .readmore{
     border-radius: 5px;
     padding: 18px 70px;
-    
     background-color: rgb(8, 99, 56);
     text-decoration: none;
     color: white;
+    border: none;
 }
 .farming{
     text-align: right;
@@ -109,20 +112,23 @@ hr{
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 50px;
+    padding-bottom: 100px;
+    
 }
 .applynow{
     border-radius: 5px;
     padding: 20px 50px;
-    
     background-color: rgb(8, 99, 56);
     text-decoration: none;
     color: white;
+    margin-right: 20px;
+    border: none;
 
 }
 .learnmore{
     border-radius: 5px;
     padding: 20px 50px;
-    
+    border: none;
     background-color: rgb(187, 238, 214);
     text-decoration: none;
     color: rgb(17, 94, 62);
@@ -153,6 +159,174 @@ hr{
     
 
 }
+.engineer{
+    padding-left: 150px;
+    padding-right: 200px;
+    height: 20cm;
+
+}
+.engineer1{
+    height: 5cm;
+
+}
+.engineer2{
+    height: 5cm;
+    padding-left: 25px;
+
+}
+.tiny{font-size:small;
+
+}
+.june{
+    border:1px solid red;
+    width: 1cm;
+}
+
+.latest{
+    text-align: center;
+}
+.bethe{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.got{
+    background-color: white;
+    color:black;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.links{
+    background-color: rgb(6, 80, 45);
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 80px;
+
+}
+
+.apply{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+
+}
+.icon{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.sec1{
+    color: white;
+    text-align: center; 
+    background-image: url('../images/about1.webp');
+    height: 9cm;
+    padding-top: 100px;
+    padding-bottom: 100px; 
+    filter:brightness(50%);
+
+}
+
+/* 
+style="background-image: url('images/about1.webp');height: 9cm;padding-top: 100px;
+                    padding-bottom: 100px; filter:brightness(50%) */
+.sec2{
+    padding-top: 100px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    padding-right: 150px;
+}
+.p1{
+    word-spacing:3px;
+    line-height: 30px;
+
+    
+}
+.h3sec3{
+    text-align: center;
+
+}
+.sec3{
+    background-color:rgb(253, 246, 247) ;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    
+
+}
+.readmoreabt{
+    text-decoration: none;
+    color: rgb(8, 88, 8);
+}
+.a1{
+text-align: right;
+padding-right: 50px;
+}
+.b1{
+    margin-bottom: 100px;
+}
+.sec4{
+    background-color:rgb(250, 225, 229) ;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    text-align: center;
+
+}
+.sec5{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 150px;
+}
+.cc{
+    width: 11cm;
+    height: 9cm;
+}
+.support{
+    color: green;
+    text-decoration: none;
+}
+.sec6{
+    background-color: #fcfcfc;
+    padding-top: 150px;
+    padding-left: 200px;
+    padding-left: 150px;
+    padding-bottom: 150px;
+}
+.cbt{
+    width: 12cm;
+    height: 12cm;
+}
+.sec7{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 200px;
+
+}
+.sec8{
+    background-color:rgb(250, 225, 229) ;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+
+}
+.sec9{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.overlay{
+    color: white;
+    filter:brightness(100%);
+
+}
+
+
+
+
+
+
 
 
 
